@@ -5,7 +5,7 @@ import { View, Text, TextInput } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 // import Icon from 'react-native-vector-icons/FontAwesome';
-import { Input, Card, Button } from 'react-native-elements';
+import { Card, Button } from 'react-native-elements';
 // import MultiSelect from 'react-native-multiple-select';
 // import RNPickerSelect from 'react-native-picker-select';
 import { Picker } from '@react-native-picker/picker';
